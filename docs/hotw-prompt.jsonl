@@ -1,0 +1,4 @@
+{"input_text": "A user can't reset password because of an error", "output_text": "Please make sure that the user set their password."}
+{"input_text": "User cannot reset the Admin Portal (manager role) password", "output_text": "Please make sure that the user set their password."}
+{"input_text": "A user cannot receive a reset password email", "output_text": "Please contact an engineer to create a new password for the user."}
+{"input_text": "A customer cannot link their account", "output_text": "Please contact an engineer to see if the personal profile already linked with any other businees profile"}
